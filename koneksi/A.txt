@@ -1,0 +1,13 @@
+<?php
+  include '../cek.php';
+?>
+
+<div class="user-panel mt-3 pb-3 mb-3 d-flex">
+        <div class="info">
+          <label style="color: white; margin-left: 70px;"><?php echo $_SESSION['username'] ?></label>
+        </div>
+      </div>
+
+<br>
+          <br>
+          <a href="../../logout.php" class="btn btn-danger"><i class="fa fa-sign-out"></i>   Logout</a>

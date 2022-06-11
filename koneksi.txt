@@ -1,0 +1,4 @@
+db name : epiz_25896895_gudang
+db username : epiz_25896895
+db host : sql308.epizy.com
+db password : SXW6TiD5w6ggi7R
